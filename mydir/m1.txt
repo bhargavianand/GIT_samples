@@ -2,3 +2,5 @@ this is m1.txt ; its from mydir.
 EOF m1.txt. Bye
 One more line added through github and saving
 learning conflicts
+1. fast forward
+2. auto merge

@@ -1,0 +1,2 @@
+this is m1.txt ; its from mydir. 
+EOF m1.txt. Bye

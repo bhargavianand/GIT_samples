@@ -2,4 +2,5 @@ This is file2.txt.
 This is a new file.
 Txt file.
 New Line added 
+Created my new branch bug12 fix for the bug no 12 in release2
 It's part of Git_samples project.

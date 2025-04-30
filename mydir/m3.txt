@@ -1,0 +1,3 @@
+Creating m3.txt in bug13 to create conflict when it's merged with bug12 branch.
+bug12 branch already contains m3.txt file in mydir.
+Lets resolve the conflict by re-arrnging the lines or removing.

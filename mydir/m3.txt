@@ -1,0 +1,2 @@
+this is m3.txt created to understand 3way merging
+Base branch changed since the branch was first created

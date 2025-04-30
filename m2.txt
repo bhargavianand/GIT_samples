@@ -1,5 +1,4 @@
 This is file2.txt.
 This is a new file.
 Txt file.
-It contains many lines
 It's part of Git_samples project.

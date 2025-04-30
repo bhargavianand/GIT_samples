@@ -1,0 +1,2 @@
+m4 has been created to understand three way merging --feature branch
+I am making changing to another file not the same file of base branch m3.txt

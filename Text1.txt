@@ -1,5 +1,0 @@
-Create file Text1.txt
-Now this file is being Created
-So, in the next step commit it -- committed
-
-Now modifying this file.
